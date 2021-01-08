@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="poster">poster</string>
+    <string name="best_rated">Best Rated</string>
+    <string name="new_videos">New Videos</string>
+    <string name="new_releasees">New Releasees</string>
+</resources>
